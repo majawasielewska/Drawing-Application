@@ -13,7 +13,7 @@
 ---
 
 ## Introduction
-The Drawify (drawing application) is a simple and intuitive tool designed for creating and editing shapes such as circles, rectangles, and lines. This application provides basic functionalities to draw, save, load, undo, and redo shapes on a canvas. It is built using Python and the Tkinter library, making it easy to use and extend.
+The Drawify (Drawing Application) is a simple and intuitive tool designed for creating and editing shapes such as circles, rectangles, and lines. This application provides basic functionalities to draw, save, load, undo, and redo shapes on a canvas. It is built using Python and the Tkinter library, making it easy to use and extend.
 
 ## System Requirements
 - Python 3.6 or higher
