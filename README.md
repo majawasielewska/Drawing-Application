@@ -52,12 +52,12 @@ Your project structure should look like this:
 
 1. **Start the Drawify**:
    
-   Open the application by running python main.py
+   Open the application by running python main.py in your project folder:
    ```sh
    python main.py
    ```
 
-3. **Play!**:
+2. **Play!**
 
 **Features**
 
