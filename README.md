@@ -45,7 +45,7 @@ To set up the Drawify on your local machine, follow these steps:
 
 2. **Install the required Python libraries**:
    ```sh
-   pip install -r requirements.txt`
+   pip install -r requirements.txt
    ```
 
 ## Start the Drawify
