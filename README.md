@@ -29,16 +29,16 @@ To set up the Drawify on your local machine, follow these steps:
    cd Drawing-Application
 
 Your project structure should look like this:
-
-Drawing-Application/
-│
-├── main.py
-├── shapes.py
-├── canvas.py
-├── io_manager.py
-├── gui.py
-├── logo.ico
-└── requirements.txt
+   ```sh
+   Drawing-Application/
+   │
+   ├── main.py
+   ├── shapes.py
+   ├── canvas.py
+   ├── io_manager.py
+   ├── gui.py
+   ├── logo.ico
+   └── requirements.txt
 
 2. **Install the required Python libraries**:
    ```sh
