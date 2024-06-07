@@ -2,7 +2,7 @@
 
 ## Version 1.0
 
-### Object-oriented programming project
+#### Object-oriented programming project
 
 ## Table of Contents
 1. [Introduction](#introduction)
