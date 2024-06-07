@@ -61,17 +61,17 @@ To set up the Drawify on your local machine, follow these steps:
 
 **Features**
 
-    Draw shapes: Select a shape (circle, rectangle, line) from the Menu and draw it on the canvas.
+    --- Draw shapes: Select a shape (circle, rectangle, line) from the Menu and draw it on the canvas.
     
-    Save and Load: Save your drawings to a file and Load them back later.
-    Undo and Redo: Easily Undo or Redo your last actions.
+    --- Save and Load: Save your drawings to a file and Load them back later.
+    --- Undo and Redo: Easily Undo or Redo your last actions.
 
 **Quick Usage**
 
-    Open the application by running - python main.py.
-    Use the Menu to select the shape you want to draw.
-    Click and drag on the canvas to draw the selected shape.
-    Use the File Menu to Save or Load drawings.
-    Use the Edit Menu to Undo or Redo actions.
+    --- Open the application by running - python main.py.
+    --- Use the Menu to select the shape you want to draw.
+    --- Click and drag on the canvas to draw the selected shape.
+    --- Use the File Menu to Save or Load drawings.
+    --- Use the Edit Menu to Undo or Redo actions.
 
 # Have fun!
