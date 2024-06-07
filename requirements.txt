@@ -1,0 +1,3 @@
+# In the project folder: pip install -r requirements.txt
+
+tk
