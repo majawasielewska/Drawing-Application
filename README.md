@@ -40,10 +40,11 @@ Your project structure should look like this:
    ├── logo.ico
    └── requirements.txt
 
+
 2. **Install the required Python libraries**:
    ```sh
    pip install -r requirements.txt`
-   
+
 ## Start the Drawify
 
 1. **Start the Drawify**:
