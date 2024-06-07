@@ -51,11 +51,13 @@ Your project structure should look like this:
 ## Start the Drawify
 
 1. **Start the Drawify**:
+   
    Open the application by running python main.py
    ```sh
    python main.py
+   ```
 
-2. **Play!**:
+3. **Play!**:
 
 **Features**
 
@@ -63,7 +65,7 @@ Your project structure should look like this:
     Save and Load: Save your drawings to a file and load them back later.
     Undo and Redo: Easily undo or redo your last actions.
 
-**QUick Usage**
+**Quick Usage**
 
     Open the application by running python main.py.
     Use the menu to select the shape you want to draw.
