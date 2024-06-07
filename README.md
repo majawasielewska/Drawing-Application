@@ -27,6 +27,7 @@ To set up the Drawify on your local machine, follow these steps:
    ```sh
    git clone https://github.com/majawasielewska/Drawing-Application.git
    cd Drawing-Application
+   ```
 
 Your project structure should look like this:
    ```sh
@@ -39,11 +40,13 @@ Your project structure should look like this:
    ├── gui.py
    ├── logo.ico
    └── requirements.txt
+   ```
 
 
 2. **Install the required Python libraries**:
    ```sh
    pip install -r requirements.txt`
+   ```
 
 ## Start the Drawify
 
